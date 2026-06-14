@@ -1,0 +1,361 @@
+id,text,pattern_type,source,brand_or_site,language,notes,Word_Count,Char_Count,Question_Mark,Exclamation_Mark,Negation_Count,Sentiment,Subordinator_Count,Complexity_Index
+1,"No, I don't want to save money",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,30,0,0,1,0.0,0,10
+2,"No thanks, I prefer paying full price",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,37,0,0,1,-0.2857142857142857,0,9
+3,"No thanks, I hate good deals",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,28,0,0,1,-0.16666666666666666,0,8
+4,"No, I enjoy missing out",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,23,0,0,1,-0.6,0,7
+5,"No, I enjoy missing out",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,23,0,0,1,-0.6,0,7
+6,"No thanks, I'll stay uninformed",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,31,0,0,1,-0.3333333333333333,0,8
+7,"No, I don't want to save money",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,30,0,0,1,0.0,0,10
+8,"No, I don't want to save money",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,30,0,0,1,0.0,0,10
+9,"No thanks, I like wasting time",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,30,0,0,1,-0.3333333333333333,0,8
+10,"No thanks, I prefer paying full price",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,37,0,0,1,-0.2857142857142857,0,9
+11,"No thanks, I prefer paying full price",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,37,0,0,1,-0.2857142857142857,0,9
+12,"No, I don't want to save money",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,30,0,0,1,0.0,0,10
+13,"No, I enjoy missing out",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,23,0,0,1,-0.6,0,7
+14,"No, I enjoy missing out",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,23,0,0,1,-0.6,0,7
+15,"No thanks, I prefer paying full price",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,37,0,0,1,-0.2857142857142857,0,9
+16,"No, I enjoy missing out",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,23,0,0,1,-0.6,0,7
+17,"No thanks, I like wasting time",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,30,0,0,1,-0.3333333333333333,0,8
+18,"No, I enjoy missing out",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,23,0,0,1,-0.6,0,7
+19,"No, I don't want exclusive access",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,33,0,0,1,0.14285714285714285,0,9
+20,"No thanks, I hate good deals",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,28,0,0,1,-0.16666666666666666,0,8
+21,"No thanks, I prefer paying full price",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,37,0,0,1,-0.2857142857142857,0,9
+22,"No thanks, I'll stay uninformed",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,31,0,0,1,-0.3333333333333333,0,8
+23,"No thanks, I like wasting time",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,30,0,0,1,-0.3333333333333333,0,8
+24,"No, I don't care about my security",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,34,0,0,1,-0.125,0,10
+25,"No thanks, I hate good deals",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,28,0,0,1,-0.16666666666666666,0,8
+26,"No thanks, I'll stay uninformed",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,31,0,0,1,-0.3333333333333333,0,8
+27,"No, I enjoy missing out",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,23,0,0,1,-0.6,0,7
+28,"No, I don't care about my security",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,34,0,0,1,-0.125,0,10
+29,"No, I don't want to save money",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,30,0,0,1,0.0,0,10
+30,"No, I don't want to save money",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,30,0,0,1,0.0,0,10
+31,"No thanks, I like wasting time",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,30,0,0,1,-0.3333333333333333,0,8
+32,"No, I don't want to save money",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,30,0,0,1,0.0,0,10
+33,"No, I don't care about my security",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,34,0,0,1,-0.125,0,10
+34,"No, I don't care about my security",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,34,0,0,1,-0.125,0,10
+35,"No thanks, I hate good deals",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,28,0,0,1,-0.16666666666666666,0,8
+36,"No thanks, I prefer paying full price",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,37,0,0,1,-0.2857142857142857,0,9
+37,"No, I don't want exclusive access",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,33,0,0,1,0.14285714285714285,0,9
+38,"No, I don't want to save money",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,30,0,0,1,0.0,0,10
+39,"No thanks, I like wasting time",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,30,0,0,1,-0.3333333333333333,0,8
+40,"No, I don't want to save money",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,30,0,0,1,0.0,0,10
+41,"No thanks, I hate good deals",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,28,0,0,1,-0.16666666666666666,0,8
+42,"No, I don't care about my security",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,34,0,0,1,-0.125,0,10
+43,"No, I enjoy missing out",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,23,0,0,1,-0.6,0,7
+44,"No, I don't want to save money",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,30,0,0,1,0.0,0,10
+45,"No thanks, I prefer paying full price",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,37,0,0,1,-0.2857142857142857,0,9
+46,"No, I enjoy missing out",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,23,0,0,1,-0.6,0,7
+47,"No thanks, I hate good deals",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,28,0,0,1,-0.16666666666666666,0,8
+48,"No, I don't want to save money",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,30,0,0,1,0.0,0,10
+49,"No, I enjoy missing out",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,23,0,0,1,-0.6,0,7
+50,"No, I don't want to save money",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,30,0,0,1,0.0,0,10
+51,"No thanks, I like wasting time",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,30,0,0,1,-0.3333333333333333,0,8
+52,"No thanks, I hate good deals",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,28,0,0,1,-0.16666666666666666,0,8
+53,"No, I don't want exclusive access",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,33,0,0,1,0.14285714285714285,0,9
+54,"No, I don't care about my security",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,34,0,0,1,-0.125,0,10
+55,"No thanks, I'll stay uninformed",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,31,0,0,1,-0.3333333333333333,0,8
+56,"No, I don't care about my security",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,34,0,0,1,-0.125,0,10
+57,"No, I don't care about my security",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,34,0,0,1,-0.125,0,10
+58,"No, I enjoy missing out",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,23,0,0,1,-0.6,0,7
+59,"No thanks, I hate good deals",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,28,0,0,1,-0.16666666666666666,0,8
+60,"No, I don't want to save money",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,30,0,0,1,0.0,0,10
+61,"No thanks, I'll stay uninformed",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,31,0,0,1,-0.3333333333333333,0,8
+62,"No, I enjoy missing out",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,23,0,0,1,-0.6,0,7
+63,"No thanks, I'll stay uninformed",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,31,0,0,1,-0.3333333333333333,0,8
+64,"No, I don't want exclusive access",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,33,0,0,1,0.14285714285714285,0,9
+65,"No thanks, I like wasting time",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,30,0,0,1,-0.3333333333333333,0,8
+66,"No thanks, I hate good deals",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,28,0,0,1,-0.16666666666666666,0,8
+67,"No, I enjoy missing out",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,23,0,0,1,-0.6,0,7
+68,"No, I don't care about my security",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,34,0,0,1,-0.125,0,10
+69,"No thanks, I prefer paying full price",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,37,0,0,1,-0.2857142857142857,0,9
+70,"No, I enjoy missing out",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,23,0,0,1,-0.6,0,7
+71,"No thanks, I prefer paying full price",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,37,0,0,1,-0.2857142857142857,0,9
+72,"No, I don't care about my security",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,34,0,0,1,-0.125,0,10
+73,"No thanks, I like wasting time",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,30,0,0,1,-0.3333333333333333,0,8
+74,"No thanks, I hate good deals",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,28,0,0,1,-0.16666666666666666,0,8
+75,"No, I don't want to save money",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,30,0,0,1,0.0,0,10
+76,"No, I enjoy missing out",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,23,0,0,1,-0.6,0,7
+77,"No, I don't care about my security",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,34,0,0,1,-0.125,0,10
+78,"No, I enjoy missing out",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,23,0,0,1,-0.6,0,7
+79,"No, I don't want exclusive access",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,33,0,0,1,0.14285714285714285,0,9
+80,"No thanks, I like wasting time",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,30,0,0,1,-0.3333333333333333,0,8
+81,"No, I don't want exclusive access",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,33,0,0,1,0.14285714285714285,0,9
+82,"No thanks, I'll stay uninformed",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,31,0,0,1,-0.3333333333333333,0,8
+83,"No thanks, I hate good deals",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,28,0,0,1,-0.16666666666666666,0,8
+84,"No thanks, I'll stay uninformed",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,31,0,0,1,-0.3333333333333333,0,8
+85,"No, I enjoy missing out",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,23,0,0,1,-0.6,0,7
+86,"No thanks, I hate good deals",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,28,0,0,1,-0.16666666666666666,0,8
+87,"No thanks, I like wasting time",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,30,0,0,1,-0.3333333333333333,0,8
+88,"No thanks, I like wasting time",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,30,0,0,1,-0.3333333333333333,0,8
+89,"No, I don't care about my security",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,34,0,0,1,-0.125,0,10
+90,"No, I enjoy missing out",confirmshaming,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,23,0,0,1,-0.6,0,7
+91,Offer expires in 00:04:59,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,25,0,0,0,-0.16666666666666666,0,6
+92,Last chance before price increases,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,34,0,0,0,-0.2,0,5
+93,15 people are viewing this right now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,36,0,0,0,0.0,0,7
+94,Only 1 item left in stock!,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,26,0,1,0,-0.16666666666666666,0,7
+95,15 people are viewing this right now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,36,0,0,0,0.0,0,7
+96,Offer expires in 00:04:59,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,25,0,0,0,-0.16666666666666666,0,6
+97,Offer expires in 00:04:59,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,25,0,0,0,-0.16666666666666666,0,6
+98,Selling fast!,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,13,0,1,0,0.0,0,3
+99,15 people are viewing this right now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,36,0,0,0,0.0,0,7
+100,Selling fast!,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,13,0,1,0,0.0,0,3
+101,Selling fast!,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,13,0,1,0,0.0,0,3
+102,Last chance before price increases,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,34,0,0,0,-0.2,0,5
+103,Your discount is about to expire,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,32,0,0,0,0.0,0,6
+104,Only 1 item left in stock!,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,26,0,1,0,-0.16666666666666666,0,7
+105,15 people are viewing this right now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,36,0,0,0,0.0,0,7
+106,Your discount is about to expire,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,32,0,0,0,0.0,0,6
+107,Limited time offer,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,18,0,0,0,0.0,0,3
+108,15 people are viewing this right now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,36,0,0,0,0.0,0,7
+109,Your discount is about to expire,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,32,0,0,0,0.0,0,6
+110,Selling fast!,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,13,0,1,0,0.0,0,3
+111,Offer expires in 00:04:59,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,25,0,0,0,-0.16666666666666666,0,6
+112,Last chance before price increases,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,34,0,0,0,-0.2,0,5
+113,Only 1 item left in stock!,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,26,0,1,0,-0.16666666666666666,0,7
+114,Your discount is about to expire,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,32,0,0,0,0.0,0,6
+115,Offer expires in 00:04:59,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,25,0,0,0,-0.16666666666666666,0,6
+116,15 people are viewing this right now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,36,0,0,0,0.0,0,7
+117,Your discount is about to expire,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,32,0,0,0,0.0,0,6
+118,High demand! Act now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,4,20,0,1,0,-0.25,0,5
+119,Offer expires in 00:04:59,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,25,0,0,0,-0.16666666666666666,0,6
+120,Limited time offer,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,18,0,0,0,0.0,0,3
+121,Offer expires in 00:04:59,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,25,0,0,0,-0.16666666666666666,0,6
+122,Only 1 item left in stock!,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,26,0,1,0,-0.16666666666666666,0,7
+123,Limited time offer,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,18,0,0,0,0.0,0,3
+124,Last chance before price increases,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,34,0,0,0,-0.2,0,5
+125,Only 1 item left in stock!,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,26,0,1,0,-0.16666666666666666,0,7
+126,15 people are viewing this right now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,36,0,0,0,0.0,0,7
+127,Limited time offer,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,18,0,0,0,0.0,0,3
+128,Your discount is about to expire,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,32,0,0,0,0.0,0,6
+129,High demand! Act now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,4,20,0,1,0,-0.25,0,5
+130,Only 1 item left in stock!,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,26,0,1,0,-0.16666666666666666,0,7
+131,High demand! Act now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,4,20,0,1,0,-0.25,0,5
+132,15 people are viewing this right now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,36,0,0,0,0.0,0,7
+133,15 people are viewing this right now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,36,0,0,0,0.0,0,7
+134,Last chance before price increases,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,34,0,0,0,-0.2,0,5
+135,15 people are viewing this right now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,36,0,0,0,0.0,0,7
+136,Offer expires in 00:04:59,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,25,0,0,0,-0.16666666666666666,0,6
+137,Offer expires in 00:04:59,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,25,0,0,0,-0.16666666666666666,0,6
+138,Last chance before price increases,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,34,0,0,0,-0.2,0,5
+139,Offer expires in 00:04:59,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,25,0,0,0,-0.16666666666666666,0,6
+140,Your discount is about to expire,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,32,0,0,0,0.0,0,6
+141,Selling fast!,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,13,0,1,0,0.0,0,3
+142,High demand! Act now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,4,20,0,1,0,-0.25,0,5
+143,High demand! Act now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,4,20,0,1,0,-0.25,0,5
+144,Your discount is about to expire,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,32,0,0,0,0.0,0,6
+145,Selling fast!,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,13,0,1,0,0.0,0,3
+146,Limited time offer,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,18,0,0,0,0.0,0,3
+147,Last chance before price increases,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,34,0,0,0,-0.2,0,5
+148,Last chance before price increases,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,34,0,0,0,-0.2,0,5
+149,15 people are viewing this right now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,36,0,0,0,0.0,0,7
+150,High demand! Act now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,4,20,0,1,0,-0.25,0,5
+151,High demand! Act now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,4,20,0,1,0,-0.25,0,5
+152,15 people are viewing this right now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,36,0,0,0,0.0,0,7
+153,Limited time offer,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,18,0,0,0,0.0,0,3
+154,Only 1 item left in stock!,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,26,0,1,0,-0.16666666666666666,0,7
+155,High demand! Act now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,4,20,0,1,0,-0.25,0,5
+156,High demand! Act now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,4,20,0,1,0,-0.25,0,5
+157,Only 1 item left in stock!,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,26,0,1,0,-0.16666666666666666,0,7
+158,15 people are viewing this right now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,36,0,0,0,0.0,0,7
+159,Only 1 item left in stock!,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,26,0,1,0,-0.16666666666666666,0,7
+160,High demand! Act now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,4,20,0,1,0,-0.25,0,5
+161,15 people are viewing this right now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,36,0,0,0,0.0,0,7
+162,Only 1 item left in stock!,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,26,0,1,0,-0.16666666666666666,0,7
+163,Limited time offer,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,18,0,0,0,0.0,0,3
+164,15 people are viewing this right now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,36,0,0,0,0.0,0,7
+165,High demand! Act now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,4,20,0,1,0,-0.25,0,5
+166,Your discount is about to expire,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,32,0,0,0,0.0,0,6
+167,Last chance before price increases,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,34,0,0,0,-0.2,0,5
+168,High demand! Act now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,4,20,0,1,0,-0.25,0,5
+169,Offer expires in 00:04:59,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,6,25,0,0,0,-0.16666666666666666,0,6
+170,Last chance before price increases,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,34,0,0,0,-0.2,0,5
+171,High demand! Act now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,4,20,0,1,0,-0.25,0,5
+172,Last chance before price increases,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,34,0,0,0,-0.2,0,5
+173,Selling fast!,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,13,0,1,0,0.0,0,3
+174,High demand! Act now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,4,20,0,1,0,-0.25,0,5
+175,15 people are viewing this right now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,36,0,0,0,0.0,0,7
+176,15 people are viewing this right now,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,36,0,0,0,0.0,0,7
+177,Selling fast!,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,13,0,1,0,0.0,0,3
+178,Limited time offer,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,18,0,0,0,0.0,0,3
+179,Selling fast!,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,13,0,1,0,0.0,0,3
+180,Selling fast!,fake_urgency,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,13,0,1,0,0.0,0,3
+181,Tick to confirm you don't disagree,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,34,0,0,1,-0.14285714285714285,0,9
+182,Uncheck this box if you do not want to receive updates,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,11,54,0,0,2,-0.09090909090909091,1,17
+183,Click here if you don't not agree,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,33,0,0,1,-0.125,1,12
+184,Uncheck this box if you do not want to receive updates,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,11,54,0,0,2,-0.09090909090909091,1,17
+185,Do not unselect if you want coverage,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,36,0,0,1,-0.14285714285714285,1,11
+186,Continue without declining protection,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,4,37,0,0,2,0.25,1,10
+187,Click here if you don't not agree,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,33,0,0,1,-0.125,1,12
+188,I do not want to opt out of emails,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,9,34,0,0,1,-0.1111111111111111,0,11
+189,I do not want to opt out of emails,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,9,34,0,0,1,-0.1111111111111111,0,11
+190,I do not want to opt out of emails,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,9,34,0,0,1,-0.1111111111111111,0,11
+191,Tick to confirm you don't disagree,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,34,0,0,1,-0.14285714285714285,0,9
+192,Proceed unless you wish to cancel your enrollment,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,49,0,0,1,-0.125,1,12
+193,Do not unselect if you want coverage,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,36,0,0,1,-0.14285714285714285,1,11
+194,Proceed unless you wish to cancel your enrollment,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,49,0,0,1,-0.125,1,12
+195,Check here to avoid not being subscribed,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,40,0,0,1,-0.14285714285714285,0,9
+196,Tick to confirm you don't disagree,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,34,0,0,1,-0.14285714285714285,0,9
+197,I do not want to opt out of emails,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,9,34,0,0,1,-0.1111111111111111,0,11
+198,Click here if you don't not agree,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,33,0,0,1,-0.125,1,12
+199,Tick to confirm you don't disagree,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,34,0,0,1,-0.14285714285714285,0,9
+200,Click here if you don't not agree,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,33,0,0,1,-0.125,1,12
+201,Uncheck this box if you do not want to receive updates,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,11,54,0,0,2,-0.09090909090909091,1,17
+202,Uncheck this box if you do not want to receive updates,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,11,54,0,0,2,-0.09090909090909091,1,17
+203,Click here if you don't not agree,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,33,0,0,1,-0.125,1,12
+204,I do not want to opt out of emails,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,9,34,0,0,1,-0.1111111111111111,0,11
+205,Proceed unless you wish to cancel your enrollment,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,49,0,0,1,-0.125,1,12
+206,Do not unselect if you want coverage,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,36,0,0,1,-0.14285714285714285,1,11
+207,Tick to confirm you don't disagree,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,34,0,0,1,-0.14285714285714285,0,9
+208,Tick to confirm you don't disagree,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,34,0,0,1,-0.14285714285714285,0,9
+209,I do not want to opt out of emails,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,9,34,0,0,1,-0.1111111111111111,0,11
+210,Do not unselect if you want coverage,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,36,0,0,1,-0.14285714285714285,1,11
+211,Uncheck this box if you do not want to receive updates,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,11,54,0,0,2,-0.09090909090909091,1,17
+212,Proceed unless you wish to cancel your enrollment,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,49,0,0,1,-0.125,1,12
+213,Do not unselect if you want coverage,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,36,0,0,1,-0.14285714285714285,1,11
+214,Uncheck this box if you do not want to receive updates,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,11,54,0,0,2,-0.09090909090909091,1,17
+215,Do not unselect if you want coverage,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,36,0,0,1,-0.14285714285714285,1,11
+216,Check here to avoid not being subscribed,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,40,0,0,1,-0.14285714285714285,0,9
+217,Tick to confirm you don't disagree,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,34,0,0,1,-0.14285714285714285,0,9
+218,Check here to avoid not being subscribed,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,40,0,0,1,-0.14285714285714285,0,9
+219,Do not unselect if you want coverage,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,36,0,0,1,-0.14285714285714285,1,11
+220,Tick to confirm you don't disagree,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,34,0,0,1,-0.14285714285714285,0,9
+221,Proceed unless you wish to cancel your enrollment,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,49,0,0,1,-0.125,1,12
+222,I do not want to opt out of emails,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,9,34,0,0,1,-0.1111111111111111,0,11
+223,Check here to avoid not being subscribed,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,40,0,0,1,-0.14285714285714285,0,9
+224,I do not want to opt out of emails,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,9,34,0,0,1,-0.1111111111111111,0,11
+225,Uncheck this box if you do not want to receive updates,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,11,54,0,0,2,-0.09090909090909091,1,17
+226,Uncheck this box if you do not want to receive updates,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,11,54,0,0,2,-0.09090909090909091,1,17
+227,Continue without declining protection,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,4,37,0,0,2,0.25,1,10
+228,Uncheck this box if you do not want to receive updates,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,11,54,0,0,2,-0.09090909090909091,1,17
+229,Uncheck this box if you do not want to receive updates,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,11,54,0,0,2,-0.09090909090909091,1,17
+230,Tick to confirm you don't disagree,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,34,0,0,1,-0.14285714285714285,0,9
+231,Proceed unless you wish to cancel your enrollment,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,49,0,0,1,-0.125,1,12
+232,Uncheck this box if you do not want to receive updates,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,11,54,0,0,2,-0.09090909090909091,1,17
+233,Click here if you don't not agree,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,33,0,0,1,-0.125,1,12
+234,Proceed unless you wish to cancel your enrollment,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,49,0,0,1,-0.125,1,12
+235,Click here if you don't not agree,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,33,0,0,1,-0.125,1,12
+236,Click here if you don't not agree,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,33,0,0,1,-0.125,1,12
+237,I do not want to opt out of emails,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,9,34,0,0,1,-0.1111111111111111,0,11
+238,Do not unselect if you want coverage,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,36,0,0,1,-0.14285714285714285,1,11
+239,Click here if you don't not agree,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,33,0,0,1,-0.125,1,12
+240,I do not want to opt out of emails,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,9,34,0,0,1,-0.1111111111111111,0,11
+241,Uncheck this box if you do not want to receive updates,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,11,54,0,0,2,-0.09090909090909091,1,17
+242,Click here if you don't not agree,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,33,0,0,1,-0.125,1,12
+243,Do not unselect if you want coverage,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,36,0,0,1,-0.14285714285714285,1,11
+244,Continue without declining protection,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,4,37,0,0,2,0.25,1,10
+245,Check here to avoid not being subscribed,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,40,0,0,1,-0.14285714285714285,0,9
+246,I do not want to opt out of emails,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,9,34,0,0,1,-0.1111111111111111,0,11
+247,Continue without declining protection,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,4,37,0,0,2,0.25,1,10
+248,I do not want to opt out of emails,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,9,34,0,0,1,-0.1111111111111111,0,11
+249,Check here to avoid not being subscribed,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,40,0,0,1,-0.14285714285714285,0,9
+250,Do not unselect if you want coverage,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,36,0,0,1,-0.14285714285714285,1,11
+251,Proceed unless you wish to cancel your enrollment,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,49,0,0,1,-0.125,1,12
+252,Check here to avoid not being subscribed,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,40,0,0,1,-0.14285714285714285,0,9
+253,Tick to confirm you don't disagree,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,34,0,0,1,-0.14285714285714285,0,9
+254,Continue without declining protection,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,4,37,0,0,2,0.25,1,10
+255,Click here if you don't not agree,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,33,0,0,1,-0.125,1,12
+256,Uncheck this box if you do not want to receive updates,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,11,54,0,0,2,-0.09090909090909091,1,17
+257,Tick to confirm you don't disagree,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,34,0,0,1,-0.14285714285714285,0,9
+258,Click here if you don't not agree,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,33,0,0,1,-0.125,1,12
+259,Click here if you don't not agree,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,33,0,0,1,-0.125,1,12
+260,I do not want to opt out of emails,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,9,34,0,0,1,-0.1111111111111111,0,11
+261,Check here to avoid not being subscribed,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,40,0,0,1,-0.14285714285714285,0,9
+262,Proceed unless you wish to cancel your enrollment,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,49,0,0,1,-0.125,1,12
+263,Continue without declining protection,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,4,37,0,0,2,0.25,1,10
+264,Click here if you don't not agree,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,33,0,0,1,-0.125,1,12
+265,I do not want to opt out of emails,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,9,34,0,0,1,-0.1111111111111111,0,11
+266,Continue without declining protection,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,4,37,0,0,2,0.25,1,10
+267,Check here to avoid not being subscribed,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,40,0,0,1,-0.14285714285714285,0,9
+268,Proceed unless you wish to cancel your enrollment,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,8,49,0,0,1,-0.125,1,12
+269,Tick to confirm you don't disagree,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,34,0,0,1,-0.14285714285714285,0,9
+270,Check here to avoid not being subscribed,trick_question,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,7,40,0,0,1,-0.14285714285714285,0,9
+271,Stay Subscribed,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,15,0,0,0,0.5,0,2
+272,Skip for now (not recommended),visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,30,0,0,1,-0.2,0,7
+273,End my membership,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,17,0,0,0,0.0,0,3
+274,Free Shipping*,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,14,0,0,0,0.5,0,2
+275,Skip for now (not recommended),visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,30,0,0,1,-0.2,0,7
+276,End my membership,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,17,0,0,0,0.0,0,3
+277,End my membership,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,17,0,0,0,0.0,0,3
+278,Free Shipping*,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,14,0,0,0,0.5,0,2
+279,Skip for now (not recommended),visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,30,0,0,1,-0.2,0,7
+280,Skip for now (not recommended),visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,30,0,0,1,-0.2,0,7
+281,Basic Plan (Recommended),visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,24,0,0,0,0.3333333333333333,0,3
+282,Continue with Premium,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,21,0,0,0,0.6666666666666666,0,3
+283,Basic Plan (Recommended),visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,24,0,0,0,0.3333333333333333,0,3
+284,Skip for now (not recommended),visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,30,0,0,1,-0.2,0,7
+285,"No, downgrade my experience",visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,4,27,0,0,1,-0.5,0,6
+286,Skip for now (not recommended),visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,30,0,0,1,-0.2,0,7
+287,Stay Subscribed,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,15,0,0,0,0.5,0,2
+288,End my membership,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,17,0,0,0,0.0,0,3
+289,Remind me later,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,15,0,0,0,0.0,0,3
+290,Skip for now (not recommended),visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,30,0,0,1,-0.2,0,7
+291,Stay Subscribed,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,15,0,0,0,0.5,0,2
+292,Stay Subscribed,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,15,0,0,0,0.5,0,2
+293,Continue with Premium,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,21,0,0,0,0.6666666666666666,0,3
+294,Free Shipping*,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,14,0,0,0,0.5,0,2
+295,Skip for now (not recommended),visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,30,0,0,1,-0.2,0,7
+296,Free Shipping*,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,14,0,0,0,0.5,0,2
+297,"No, downgrade my experience",visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,4,27,0,0,1,-0.5,0,6
+298,Remind me later,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,15,0,0,0,0.0,0,3
+299,Stay Subscribed,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,15,0,0,0,0.5,0,2
+300,End my membership,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,17,0,0,0,0.0,0,3
+301,End my membership,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,17,0,0,0,0.0,0,3
+302,Free Shipping*,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,14,0,0,0,0.5,0,2
+303,Stay Subscribed,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,15,0,0,0,0.5,0,2
+304,Continue with Premium,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,21,0,0,0,0.6666666666666666,0,3
+305,Free Shipping*,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,14,0,0,0,0.5,0,2
+306,Remind me later,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,15,0,0,0,0.0,0,3
+307,Free Shipping*,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,14,0,0,0,0.5,0,2
+308,Stay Subscribed,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,15,0,0,0,0.5,0,2
+309,Skip for now (not recommended),visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,30,0,0,1,-0.2,0,7
+310,Continue with Premium,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,21,0,0,0,0.6666666666666666,0,3
+311,Stay Subscribed,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,15,0,0,0,0.5,0,2
+312,Continue with Premium,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,21,0,0,0,0.6666666666666666,0,3
+313,Basic Plan (Recommended),visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,24,0,0,0,0.3333333333333333,0,3
+314,Basic Plan (Recommended),visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,24,0,0,0,0.3333333333333333,0,3
+315,End my membership,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,17,0,0,0,0.0,0,3
+316,Continue with Premium,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,21,0,0,0,0.6666666666666666,0,3
+317,Remind me later,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,15,0,0,0,0.0,0,3
+318,Free Shipping*,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,14,0,0,0,0.5,0,2
+319,Basic Plan (Recommended),visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,24,0,0,0,0.3333333333333333,0,3
+320,Free Shipping*,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,14,0,0,0,0.5,0,2
+321,Free Shipping*,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,14,0,0,0,0.5,0,2
+322,Remind me later,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,15,0,0,0,0.0,0,3
+323,Stay Subscribed,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,15,0,0,0,0.5,0,2
+324,Free Shipping*,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,14,0,0,0,0.5,0,2
+325,Continue with Premium,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,21,0,0,0,0.6666666666666666,0,3
+326,Remind me later,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,15,0,0,0,0.0,0,3
+327,Basic Plan (Recommended),visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,24,0,0,0,0.3333333333333333,0,3
+328,Skip for now (not recommended),visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,30,0,0,1,-0.2,0,7
+329,Free Shipping*,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,14,0,0,0,0.5,0,2
+330,End my membership,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,17,0,0,0,0.0,0,3
+331,Remind me later,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,15,0,0,0,0.0,0,3
+332,Stay Subscribed,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,15,0,0,0,0.5,0,2
+333,"No, downgrade my experience",visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,4,27,0,0,1,-0.5,0,6
+334,Basic Plan (Recommended),visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,24,0,0,0,0.3333333333333333,0,3
+335,Basic Plan (Recommended),visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,24,0,0,0,0.3333333333333333,0,3
+336,"No, downgrade my experience",visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,4,27,0,0,1,-0.5,0,6
+337,Continue with Premium,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,21,0,0,0,0.6666666666666666,0,3
+338,Skip for now (not recommended),visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,30,0,0,1,-0.2,0,7
+339,Basic Plan (Recommended),visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,24,0,0,0,0.3333333333333333,0,3
+340,Basic Plan (Recommended),visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,24,0,0,0,0.3333333333333333,0,3
+341,Stay Subscribed,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,15,0,0,0,0.5,0,2
+342,Basic Plan (Recommended),visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,24,0,0,0,0.3333333333333333,0,3
+343,Remind me later,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,15,0,0,0,0.0,0,3
+344,Continue with Premium,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,21,0,0,0,0.6666666666666666,0,3
+345,Skip for now (not recommended),visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,30,0,0,1,-0.2,0,7
+346,End my membership,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,17,0,0,0,0.0,0,3
+347,Skip for now (not recommended),visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,30,0,0,1,-0.2,0,7
+348,Continue with Premium,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,21,0,0,0,0.6666666666666666,0,3
+349,Remind me later,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,15,0,0,0,0.0,0,3
+350,Continue with Premium,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,21,0,0,0,0.6666666666666666,0,3
+351,Stay Subscribed,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,15,0,0,0,0.5,0,2
+352,End my membership,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,17,0,0,0,0.0,0,3
+353,Skip for now (not recommended),visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,30,0,0,1,-0.2,0,7
+354,Free Shipping*,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,14,0,0,0,0.5,0,2
+355,Skip for now (not recommended),visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,5,30,0,0,1,-0.2,0,7
+356,Stay Subscribed,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,2,15,0,0,0,0.5,0,2
+357,End my membership,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,17,0,0,0,0.0,0,3
+358,Remind me later,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,15,0,0,0,0.0,0,3
+359,Continue with Premium,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,21,0,0,0,0.6666666666666666,0,3
+360,Continue with Premium,visual_interference,Compiled research dataset (documented dark pattern styles),Various,English,Microcopy categorized for linguistic analysis,3,21,0,0,0,0.6666666666666666,0,3
