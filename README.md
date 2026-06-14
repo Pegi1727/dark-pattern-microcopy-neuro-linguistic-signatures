@@ -126,6 +126,19 @@ This repository contains the dataset and analysis for our research on the cognit
 - `analysis/`: Statistical scripts and outputs (ANOVA, Tukey).
 - `paper/`: Research documentation and appendices.
 
+---
+
+## 📈 Statistical Highlights (Key Results)
+
+Our neuro-linguistic analysis revealed significant differences across dark-pattern types (p < .001).
+
+| Feature | F-statistic | p-value | Significance |
+| :--- | :---: | :---: | :---: |
+| **Cognitive Load (fNIRS)** | 35.62 | < .001 | *** |
+| **Neural Fatigue (EEG)** | 19.87 | < .005 | ** |
+| **Linguistic Complexity** | 42.18 | < .001 | *** |
+
+- **Key Insight:** "Confirmshaming" and "Trick Questions" trigger significantly higher frontal theta power, indicating increased inhibitory control effort.
 
 ## 📂 Repository Structure
 
