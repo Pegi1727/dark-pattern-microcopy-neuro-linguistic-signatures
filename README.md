@@ -107,7 +107,25 @@ which explain how manipulative interface language operates through:
 1. **Complexity‑driven pathways** (syntactic ambiguity, negation, cognitive overload)
 2. **Affect‑driven pathways** (urgency, shame framing, emotional salience)
 
+---# Neuro-Linguistic Signatures of Dark-Pattern Microcopy
+
+This repository contains the dataset and analysis for our research on the cognitive impact of dark patterns.
+
+## 📊 Key Visualizations
+
+### 1. Linguistic Feature Profiles
+![Linguistic Profiles](./figure1_linguistic_feature_profiles.png)
+
+### 2. Neuro-Cognitive Impact
+![Neuro-Cognitive Radar](./radar_neuro_cognitive_indices.png)
+
 ---
+
+## 📂 Repository Structure
+- `data/`: Dataset with 360 microcopy samples.
+- `analysis/`: Statistical scripts and outputs (ANOVA, Tukey).
+- `paper/`: Research documentation and appendices.
+
 
 ## 📂 Repository Structure
 
