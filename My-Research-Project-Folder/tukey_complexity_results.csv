@@ -1,0 +1,7 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+confirmshaming,fake_urgency,-4.2191,0.0,-4.6012,-3.837,True
+confirmshaming,trick_question,2.9834,0.0,2.6013,3.3655,True
+confirmshaming,visual_interference,-4.9738,0.0,-5.3559,-4.5917,True
+fake_urgency,trick_question,7.2025,0.0,6.8204,7.5846,True
+fake_urgency,visual_interference,-0.7547,0.0,-1.1368,-0.3726,True
+trick_question,visual_interference,-7.9572,0.0,-8.3392,-7.5751,True
