@@ -1,8 +1,8 @@
 # Predicting User Vulnerability to Deceptive Interface Design Using Multimodal Neural and Behavioral Modeling
 
-<!-- Graphical abstract centered -->
+<!-- Graphical abstract centered with corrected path -->
 <p align="center">
-  <img src="ga.png" alt="Graphical Abstract" width="800">
+  <img src="paper/ga.png" alt="Graphical Abstract" width="800">
 </p>
 
 <p align="center">
@@ -33,18 +33,18 @@ This work investigates the cognitive and neural signatures of deceptive interfac
 The following figures demonstrate the relationship between manipulative microcopy and the resulting cognitive impact:
 
 <p align="center">
-  <img src="figure1_linguistic_feature_profiles.png" alt="Linguistic Profiles" width="500">
+  <img src="paper/figure1_linguistic_feature_profiles.png" alt="Linguistic Profiles" width="500">
   <br><i>Figure 1: Linguistic feature profiles across dark-pattern types.</i>
 </p>
 
 <p align="center">
-  <img src="radar_neuro_cognitive_indices.png" alt="Radar Plot" width="500">
+  <img src="paper/radar_neuro_cognitive_indices.png" alt="Radar Plot" width="500">
   <br><i>Figure 2: Radar plot demonstrating the distribution of neuro-cognitive indices.</i>
 </p>
 
 ### 📈 Statistical Highlights
 
-Our analysis revealed significant differences across dark-pattern types (p < .001), demonstrating that manipulative language directly triggers measurable neural responses.
+Our analysis revealed significant differences across dark-pattern types ($p < .001$), demonstrating that manipulative language directly triggers measurable neural responses.
 
 | Feature | F-statistic | p-value | Significance |
 | :--- | :---: | :---: | :---: |
@@ -52,7 +52,7 @@ Our analysis revealed significant differences across dark-pattern types (p < .00
 | Neural Fatigue (EEG) | 19.87 | < .005 |  |
 | Linguistic Complexity | 42.18 | < .001 | * |
 
-**Key Insight:** Our findings indicate that "Confirmshaming" and "Trick Questions" trigger significantly higher frontal theta power, representing a peak in inhibitory control effort and cognitive dissonance.
+💡 **Key Insight:** Our findings indicate that "Confirmshaming" and "Trick Questions" trigger significantly higher frontal theta power, representing a peak in inhibitory control effort and cognitive dissonance.
 
 ---
 
@@ -66,5 +66,5 @@ Our analysis revealed significant differences across dark-pattern types (p < .00
 │   ├── preprocessing/       # ICA, filtering, and artifact removal
 │   ├── feature_extraction/  # PSD, entropy, and linguistic features
 │   └── models/              # Deep learning architectures and XAI (SHAP)
-├── paper/                   # Research documentation and appendices
+├── paper/                   # Research documentation and figures
 └── main.py                  # Execution entry point for prediction and evaluation
