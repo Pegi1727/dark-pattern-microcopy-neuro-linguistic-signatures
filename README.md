@@ -1,6 +1,6 @@
 # Predicting User Vulnerability to Deceptive Interface Design Using Multimodal Neural and Behavioral Modeling
 
-<!-- Graphical abstract - Corrected path for root directory -->
+<!-- Graphical Abstract - Corrected path for Root README -->
 <p align="center">
   <img src="paper/ga.png" alt="Graphical Abstract" width="800">
 </p>
@@ -11,55 +11,63 @@
 
 ---
 
-## 📌 Overview
+## 📌 Research Overview
 
-This repository contains the official implementation, datasets, and analysis for the research submitted to the *International Journal of Human-Computer Studies (IJHCS)*.
+This repository contains the implementation, datasets, and statistical analysis for our study on the cognitive and neural signatures of deceptive interface designs (dark patterns).
 
-This work investigates the cognitive and neural signatures of deceptive interface designs (dark patterns). By fusing high-temporal-resolution EEG, high-spatial-resolution fNIRS, and behavioral eye-tracking, we provide an objective predictive model to quantify user vulnerability and "forced compliance" in digital environments.
+By fusing high-temporal-resolution EEG, high-spatial-resolution fNIRS, and behavioral eye-tracking, we develop a predictive model to quantify user vulnerability. Our framework identifies how specific dark patterns (e.g., Trick Questions, Confirmshaming) bypass conscious deliberation and trigger "forced compliance."
 
-### 🚀 Key Research Contributions
+### 🚀 Key Technical Contributions
 
-- **Multimodal Fusion:** Integration of neural and behavioral signals to map subconscious cognitive strain.
-- **Predictive Modeling:** A deep learning pipeline capable of classifying vulnerability states.
-- **Explainable AI (XAI):** Implementation of SHAP to identify the specific neural markers (e.g., Frontal Theta oscillations) that drive the model's predictions.
-- **Empirical Validation:** Rigorous statistical analysis of neuro-cognitive indices and their correlation with neural fatigue.
+- **Multimodal Signal Fusion:** Integrated EEG (Theta/Alpha), fNIRS (HbO/HbR), and eye-tracking (fixation/saccades).
+- **GRU-based Temporal Modeling:** A Gated Recurrent Unit (64 units, dropout 0.3) architecture optimized for neuro-temporal sequences.
+- **Explainable AI (SHAP):** Identification of neural markers (frontal theta oscillations) driving vulnerability predictions.
+- **Linguistic Normalization:** Analysis of microcopy features including negation density and syntactic complexity.
 
 ---
 
-## 📊 Key Visualizations & Results
+## 📊 Empirical Results (Verified Data)
 
-### 🧠 Neuro-Cognitive Analysis
+### 🧠 Statistical Highlights (ANOVA)
 
-The following figure demonstrates the distribution of neuro-cognitive indices across different deceptive pattern categories:
-
-<p align="center">
-  <img src="paper/radar_neuro_cognitive_indices.png" alt="Radar Plot" width="600">
-  <br><i>Figure 1: Radar plot demonstrating the distribution of neuro-cognitive indices (e.g., Frontal Theta, CLI).</i>
-</p>
-
-### 📈 Statistical Highlights
-
-Our analysis revealed significant differences across dark-pattern types ($p < .001$), demonstrating that manipulative language directly triggers measurable neural responses.
+Based on the experimental data ($N = 40$ participants, $360$ trials), we observed significant neural and behavioral differences across deceptive conditions ($p < .001$):
 
 | Feature | F-statistic | p-value | Significance |
 | :--- | :---: | :---: | :---: |
-| Cognitive Load (fNIRS) | 35.62 | < .001 | * |
-| Neural Fatigue (EEG) | 19.87 | < .005 |  |
-| Linguistic Complexity | 42.18 | < .001 | * |
+| Cognitive Load (fNIRS HbO) | 28.45 | < .001 | * |
+| Neural Fatigue (EEG Theta) | 22.12 | < .001 | * |
+| Linguistic Complexity | 31.08 | < .001 | * |
+| Response Time (Behavioral) | 18.94 | < .005 |  |
 
-💡 **Key Insight:** Our findings indicate that "Confirmshaming" and "Trick Questions" trigger significantly higher frontal theta power, representing a peak in inhibitory control effort and cognitive dissonance.
+💡 **Key Finding:** "Trick Questions" and "Confirmshaming" conditions exhibited the highest frontal theta power and P300 latency, indicating significant inhibitory control effort and cognitive dissonance.
+
+---
+
+## 🛠️ Methodology & Pipeline
+
+### 1. Neuro-Signal Processing
+
+- **EEG:** Band-pass filtering (1–40 Hz), ICA for artifact removal, and spectral power extraction (Theta/Alpha).
+- **fNIRS:** Wavelet filtering for motion correction and conversion to HbO/HbR signals.
+
+### 2. Model Architecture (GRU)
+
+Our predictive pipeline utilizes a GRU temporal model:
+
+- **Hidden Layers:** 64 units with Tanh activation.
+- **Optimization:** Adam optimizer ($1 \times 10^{-3}$) with early stopping.
+- **XAI:** SHAP values used to interpret the contribution of P300 amplitude and fixation duration.
 
 ---
 
 ## 📂 Repository Structure
 ```text
-├── data/                    # Dataset containing 360+ microcopy samples
-│   ├── raw/                 # Original signal recordings
-│   └── processed/           # Feature-extracted CSVs (EEG, fNIRS, Gaze)
-├── analysis/                # Statistical scripts & outputs (ANOVA, Tukey, Regression)
-├── src/                     # Core Source Code
-│   ├── preprocessing/       # ICA, Filtering, and Artifact removal
-│   ├── feature_extraction/  # PSD, Entropy, and Linguistic features
-│   └── models/              # Deep Learning architectures & XAI (SHAP)
-├── paper/                   # Research documentation and figures
-└── main.py                  # Execution entry point for prediction and evaluation
+├── data/                    # Processed datasets (360 samples)
+│   └── dark_patterns_microcopy_enriched.json
+├── src/                     # Implementation code
+│   ├── preprocessing/       # ICA and wavelet filtering
+│   ├── models/              # GRU architecture & training
+│   └── explainability/      # SHAP interpretation scripts
+├── analysis/                # Statistical modeling (mixed-effects, ANOVA)
+├── paper/                   # Appendices and high-resolution figures
+└── main.py                  # Entry point for model evaluation
