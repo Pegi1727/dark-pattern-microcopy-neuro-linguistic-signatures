@@ -1,8 +1,8 @@
 # Predicting User Vulnerability to Deceptive Interface Design Using Multimodal Neural and Behavioral Modeling
 
-<!-- Graphical abstract centered - Direct path since README is in the paper/ directory -->
+<!-- Graphical abstract - Corrected path for root directory -->
 <p align="center">
-  <img src="ga.png" alt="Graphical Abstract" width="800">
+  <img src="paper/ga.png" alt="Graphical Abstract" width="800">
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ This work investigates the cognitive and neural signatures of deceptive interfac
 The following figure demonstrates the distribution of neuro-cognitive indices across different deceptive pattern categories:
 
 <p align="center">
-  <img src="radar_neuro_cognitive_indices.png" alt="Radar Plot" width="600">
+  <img src="paper/radar_neuro_cognitive_indices.png" alt="Radar Plot" width="600">
   <br><i>Figure 1: Radar plot demonstrating the distribution of neuro-cognitive indices (e.g., Frontal Theta, CLI).</i>
 </p>
 
