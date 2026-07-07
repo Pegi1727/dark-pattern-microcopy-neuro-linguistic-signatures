@@ -1,8 +1,8 @@
 # Predicting User Vulnerability to Deceptive Interface Design Using Multimodal Neural and Behavioral Modeling
 
-<!-- Graphical abstract centered with corrected path -->
+<!-- Graphical abstract centered - Direct path since README is in the paper/ directory -->
 <p align="center">
-  <img src="paper/ga.png" alt="Graphical Abstract" width="800">
+  <img src="ga.png" alt="Graphical Abstract" width="800">
 </p>
 
 <p align="center">
@@ -21,25 +21,20 @@ This work investigates the cognitive and neural signatures of deceptive interfac
 
 - **Multimodal Fusion:** Integration of neural and behavioral signals to map subconscious cognitive strain.
 - **Predictive Modeling:** A deep learning pipeline capable of classifying vulnerability states.
-- **Explainable AI (XAI):** Implementation of SHAP to identify the specific neural markers, such as frontal theta oscillations, that drive the model's predictions.
-- **Empirical Validation:** Rigorous statistical analysis of linguistic complexity and its correlation with neural fatigue.
+- **Explainable AI (XAI):** Implementation of SHAP to identify the specific neural markers (e.g., Frontal Theta oscillations) that drive the model's predictions.
+- **Empirical Validation:** Rigorous statistical analysis of neuro-cognitive indices and their correlation with neural fatigue.
 
 ---
 
 ## 📊 Key Visualizations & Results
 
-### 🧠 Neuro-Cognitive & Linguistic Analysis
+### 🧠 Neuro-Cognitive Analysis
 
-The following figures demonstrate the relationship between manipulative microcopy and the resulting cognitive impact:
-
-<p align="center">
-  <img src="paper/figure1_linguistic_feature_profiles.png" alt="Linguistic Profiles" width="500">
-  <br><i>Figure 1: Linguistic feature profiles across dark-pattern types.</i>
-</p>
+The following figure demonstrates the distribution of neuro-cognitive indices across different deceptive pattern categories:
 
 <p align="center">
-  <img src="paper/radar_neuro_cognitive_indices.png" alt="Radar Plot" width="500">
-  <br><i>Figure 2: Radar plot demonstrating the distribution of neuro-cognitive indices.</i>
+  <img src="radar_neuro_cognitive_indices.png" alt="Radar Plot" width="600">
+  <br><i>Figure 1: Radar plot demonstrating the distribution of neuro-cognitive indices (e.g., Frontal Theta, CLI).</i>
 </p>
 
 ### 📈 Statistical Highlights
@@ -61,10 +56,10 @@ Our analysis revealed significant differences across dark-pattern types ($p < .0
 ├── data/                    # Dataset containing 360+ microcopy samples
 │   ├── raw/                 # Original signal recordings
 │   └── processed/           # Feature-extracted CSVs (EEG, fNIRS, Gaze)
-├── analysis/                # Statistical scripts and outputs (ANOVA, Tukey, Regression)
-├── src/                     # Core source code
-│   ├── preprocessing/       # ICA, filtering, and artifact removal
-│   ├── feature_extraction/  # PSD, entropy, and linguistic features
-│   └── models/              # Deep learning architectures and XAI (SHAP)
+├── analysis/                # Statistical scripts & outputs (ANOVA, Tukey, Regression)
+├── src/                     # Core Source Code
+│   ├── preprocessing/       # ICA, Filtering, and Artifact removal
+│   ├── feature_extraction/  # PSD, Entropy, and Linguistic features
+│   └── models/              # Deep Learning architectures & XAI (SHAP)
 ├── paper/                   # Research documentation and figures
 └── main.py                  # Execution entry point for prediction and evaluation
