@@ -1,144 +1,66 @@
-# dark-pattern-microcopy-neuro-linguistic-signatures
-Neuro‑linguistic analysis of dark‑pattern microcopy using linguistic features, behavioral measures, and neuro‑cognitive indicators to reveal how manipulative interface language shapes user decision‑making.
-# Neuro‑Linguistic Signatures of Dark‑Pattern Microcopy
+# Predicting User Vulnerability to Deceptive Interface Design Using Multimodal Neural and Behavioral Modeling
 
-This repository contains the datasets, statistical outputs, and visualizations associated with the research article:
+<p align="center">
+  <img src="ga.png" alt="Graphical Abstract" width="800">
+</p>
 
-**Neuro‑Linguistic Signatures of Dark‑Pattern Microcopy: Cognitive Load, Affective Pressure, and Manipulative Interface Language**
+<p align="center">
+  <b>Graphical Abstract:</b> A neuroergonomic framework integrating multimodal signals to predict user vulnerability to deceptive interface designs.
+</p>
 
 ---
 
 ## 📌 Overview
 
-Dark patterns are interface design strategies that manipulate user decisions through deceptive or coercive interaction techniques. While prior researc has primarily focused on visual layout and structural interface manipulation, this study investigates the **linguistic mechanisms** underlying manipulative microcopy.
+This repository contains the official implementation, datasets, and analysis for the research submitted to the *International Journal of Human-Computer Studies (IJHCS)*.
 
-Using a combination of:
+While previous research, such as our work on neuro-linguistic signatures, focused on the linguistic impact of dark patterns, this study advances the field by developing a **predictive multimodal framework**. We investigate how the fusion of neural and behavioral data can identify the “tipping point” of user vulnerability, where deceptive interface designs lead to forced compliance.
 
-- Linguistic feature extraction  
-- Behavioral performance measures  
-- Neuro‑cognitive indicators (EEG / fNIRS-derived indices)  
-- Inferential statistical modeling (ANOVA, Tukey post‑hoc tests, regression analysis)  
+## 🧠 Core Methodology
 
-this study identifies measurable **neuro‑linguistic signatures** associated with different categories of dark-pattern microcopy.
+This project moves beyond unimodal analysis by implementing a high-dimensional fusion of:
 
-The research introduces the:
-
-- **Cognitive‑Linguistic Manipulation (CLM) framework**
-- **Dual‑Route Linguistic Manipulation (DRLM) model**
-- 
----
-
-## 🧠 Key Research Contributions
-
-- Demonstrates that microcopy alone can produce measurable neuro‑cognitive effects.
-- Identifies negation density and linguistic complexity as primary drivers of cognitive load.
-- Reveals a speed–accuracy paradox under urgency-based manipulation.
-- Provides empirical support for a dual-route model of linguistic manipulation in digital interfaces.
-- Bridges HCI, NeuroIS, computational linguistics, and digital ethics.
+- **Neural Indicators:** High-temporal-resolution EEG and high-spatial-resolution fNIRS, measuring cognitive load and affective pressure
+- **Behavioral Measures:** Precise eye-tracking metrics, including gaze, fixation, and saccades
+- **Linguistic Features:** Analysis of manipulative microcopy and deceptive framing
+- **Advanced Modeling:** A deep learning pipeline designed to predict vulnerability states
 
 ---
 
-## 📊 Statistical Analysis
+## 🚀 Key Research Contributions
 
-The repository includes:
-
-- One‑way ANOVA across linguistic features  
-- Tukey post‑hoc comparisons  
-- Regression modeling of dark‑pattern predictors  
-- APA-formatted summary tables  
-
-All statistical outputs are provided as `.csv` and `.xlsx` files for transparency and reproducibility.
+- **Multimodal Fusion Framework:** Integration of EEG, fNIRS, and eye-tracking to create a holistic map of user vulnerability
+- **Vulnerability Prediction:** Moving from describing dark patterns to predicting user susceptibility using neural markers
+- **Explainable AI (XAI):** Implementation of SHAP (*SHapley Additive exPlanations*) to reveal the neural markers, such as frontal theta oscillations, that drive model predictions
+- **Bridging Disciplines:** An interdisciplinary approach combining HCI, NeuroIS, computational linguistics, and digital ethics
 
 ---
 
-## 🔬 Data Description
+## 📊 Visualizations & Results
 
-### `dark_patterns_microcopy_360.csv`
-Primary dataset of dark‑pattern microcopy samples categorized by pattern type.
+### 📉 Neuro-Cognitive Analysis
 
-### `dark_patterns_microcopy_360_enriched.csv`
-Extended dataset including extracted linguistic features (e.g., negation count, sentiment markers, complexity index).
+The following figure illustrates the neuro-cognitive indices and the predictive accuracy of the multimodal model:
 
-### `linguistic_features_summary_by_pattern.csv`
-Aggregated descriptive statistics per dark-pattern category.
+<p align="center">
+  <img src="radar_neuro_cognitive_indices.png" alt="Radar Plot" width="500">
+</p>
 
----
-
-## 📈 Figures
-
-- **Figure 1:** Linguistic Feature Profiles Across Dark‑Pattern Types  
-- **Radar Plot:** Neuro‑Cognitive Index Comparison  
-
-These figures visualize the relationship between linguistic manipulation and cognitive impact.
-
----
-
-## ⚖ Ethical Note
-
-This repository is intended for academic research and educational purposes.  
-The data and analyses aim to support transparency in interface design and to advance understanding of cognitive autonomy in digital environments.
-
----
-
-## 📖 Citation
-
-If you use this dataset or build upon this research, please cite:
-
-> Author(s). (2026). *Neuro‑Linguistic Signatures of Dark‑Pattern Microcopy: Cognitive Load, Affective Pressure, and Manipulative Interface Language.*
-
-A `CITATION.cff` file is provided for reference management tools.
-
----
-
-## 📜 License
-
-This repository is released under the **CC BY 4.0 License** for academic and research use.  
-See the `LICENSE` file for details.
-
----
-
-## 💬 Contact
-
-For academic collaboration, replication requests, or methodological clarification, please open an issue in this repository.
-
-
-which explain how manipulative interface language operates through:
-
-1. **Complexity‑driven pathways** (syntactic ambiguity, negation, cognitive overload)
-2. **Affect‑driven pathways** (urgency, shame framing, emotional salience)
-
----# Neuro-Linguistic Signatures of Dark-Pattern Microcopy
-
-This repository contains the dataset and analysis for our research on the cognitive impact of dark patterns.
-
-## 📊 Key Visualizations
-
-### 1. Linguistic Feature Profiles
-![Linguistic Profiles](./figure1_linguistic_feature_profiles.png)
-
-### 2. Neuro-Cognitive Impact
-![Neuro-Cognitive Radar](./radar_neuro_cognitive_indices.png)
+<p align="center">
+  <i>Figure 1: Radar plot demonstrating the distribution of neuro-cognitive indices across different deceptive interface categories.</i>
+</p>
 
 ---
 
 ## 📂 Repository Structure
-- `data/`: Dataset with 360 microcopy samples.
-- `analysis/`: Statistical scripts and outputs (ANOVA, Tukey).
-- `paper/`: Research documentation and appendices.
-
----
-
-## 📈 Statistical Highlights (Key Results)
-
-Our neuro-linguistic analysis revealed significant differences across dark-pattern types (p < .001).
-
-| Feature | F-statistic | p-value | Significance |
-| :--- | :---: | :---: | :---: |
-| **Cognitive Load (fNIRS)** | 35.62 | < .001 | *** |
-| **Neural Fatigue (EEG)** | 19.87 | < .005 | ** |
-| **Linguistic Complexity** | 42.18 | < .001 | *** |
-
-- **Key Insight:** "Confirmshaming" and "Trick Questions" trigger significantly higher frontal theta power, indicating increased inhibitory control effort.
-
-## 📂 Repository Structure
-
+```text
+├── data/                         # Processed datasets for multimodal analysis
+│   ├── raw/                      # Original signal recordings
+│   └── processed/                # Feature-extracted CSVs (EEG, fNIRS, Gaze)
+├── src/                          # Source code for the pipeline
+│   ├── preprocessing/            # ICA, band-pass filtering, and artifact removal
+│   ├── feature_extraction/       # PSD, entropy, and linguistic features
+│   └── models/                   # Deep learning architectures and XAI (SHAP)
+├── results/                      # Final outputs
+│   └── figures/                  # All figures used in the manuscript (including ga.png)
+└── main.py                       # Execution entry point for prediction and evaluation
